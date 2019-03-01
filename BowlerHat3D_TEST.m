@@ -20,7 +20,7 @@ clc; clear; close all;
 %% Load Image
 im = create3DImagesingle;
 r = 1; 
-% Normalize
+%% Normalize
 im = double(im); im = (im - min(im(:))) / (max(im(:)) - min(im(:))); % normalize the input image.
 
 %% Bowler Hat
