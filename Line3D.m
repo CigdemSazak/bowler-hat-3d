@@ -1,5 +1,5 @@
 function sel = Line3D(s,o,rx,ry,rz)  
-%% BOLine3D - 3D line
+%% Line3D - 3D line
 %
 %   INPUT:
 %       s        - size
