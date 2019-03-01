@@ -15,6 +15,7 @@
 %       Cigdem Sazak, Carl J Nelson, Boguslaw Obara, http://boguslawobara.net/
 
 %% Clear
+%% Clear
 clc; clear; close all;
 
 %% Load Image
