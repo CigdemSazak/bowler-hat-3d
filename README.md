@@ -7,11 +7,11 @@
 
 If you find this code useful in your research and development, please consider citing:
 
-    @article{Sazak2018,
-        author      = {\c{C}i\u{g}dem Sazak and Carl J. Nelson and Boguslaw Obara},
-        title       = {The Multiscale Bowler-Hat Transform for Blood Vessel Enhancement in Retinal Images},
-        journal     = {Pattern Recognition},
-        year        = {2018}
-    }
+    @inproceedings{sazak2018multiscale,
+	title					= {The Multiscale Bowler-Hat Transform for Vessel Enhancement in 3{D} Biomedical Images},
+	author					= {Sazak, {\c{C}}i{\u{g}}dem and Nelson, Carl J and Obara, Boguslaw},
+	booktitle				= {Brtisih Machine Vision Conference},
+	year					= {2018}
+}
 
  
